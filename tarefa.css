@@ -1,0 +1,99 @@
+body{
+
+    background-color: rgb(229, 235, 253);
+}
+.baner{
+    width: 55%;
+    padding: 400px;
+    background-image: url("img-principal.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    margin: 0 auto;
+    background-size: 100%;
+}
+
+.baner h1{
+    padding: 0%;
+    color: rgb(255, 255, 255);
+    margin: 0 auto;
+    font-size: 9em;
+
+}
+.baner h2{
+    /* padding: 0%; */
+    color: rgb(255, 255, 255);
+    margin: 0 auto;
+    font-size: 5em;
+}
+.descricao h2{
+    padding: 5%;
+    color: #e43b48;
+    margin: 0 auto;
+    font-size: 2.8em;
+    text-align: center;
+}
+
+.cont-whats{
+    margin: 0 auto;
+    width: 100%;
+
+    background-repeat: no-repeat;
+    height: 690px;
+    display: flex;
+  /*   justify-content: center;
+    align-items: center; 
+    background-image: url("velas-de-arruda.jpg");*/
+
+
+}
+.contato{
+
+    width: 30%;
+    padding: 256.5px;
+    height: 190px;
+    background-color: #e43b48;
+}
+
+.contato h2{
+    font-size: 4em;
+    color: white;
+}
+
+.botao-whatsapp{
+    width: 90%;
+    height: 70px;
+    /* align-items: center; */
+    display: flex;
+    background-color: rgb(230, 169, 169);
+    margin: 1px 1px 1px 1px;
+}
+
+.botao-whatsapp h2{
+    font-size: 2em;
+    color: white;
+}
+
+.opcoes{
+    width: 90%;
+    height: 70px;    
+}
+.velaarruda img{
+    width: 100%;
+    height: 702px;
+}
+.velaarruda{
+    width: 70%;
+    height: 10px;
+}
+
+.descricao-2 {
+    padding: 5%;
+    color: #e43b48;
+    margin: 0 auto;
+    font-size: 1.8em;
+    text-align: center;
+}
+.clear{
+    clear:both;
+}
